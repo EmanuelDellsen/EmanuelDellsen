@@ -1,2 +1,8 @@
 theme: jekyll-theme-minimal
 description: Emanuel Dellsén's personal website
+defaults:
+  - scope:
+      path: "https://github.com/EmanuelDellsen/EmanuelDellsen/blob/main/profilePicture.jpg"
+    values:
+      image: true
+
