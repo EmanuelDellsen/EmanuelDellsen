@@ -1,28 +1,32 @@
 ## Projects
 
-### HAJKEN-car
+### [HAJKEN-car](https://github.com/EmanuelDellsen/group-05)
+The team and I got the opportunity to work with a miniature car and through the use of different sensors and readers create a car which would end up avoiding obstacles and perform manouvers. We also wrote an detailed README which can be found [here](https://github.com/EmanuelDellsen/group-05) containing more information.
 
-https://github.com/EmanuelDellsen/group-05
 
-### StadsTid
 
-https://github.com/EmanuelDellsen/StadsTid
+### [StadsTid](https://github.com/EmanuelDellsen/StadsTid)
+Me and [Karl](https://github.com/Synoecism) attended a Hackathon called ["Hack the crisis Sweden"](https://www.ai.se/en/events/hack-crisis-0#:~:text=Hack%20the%20Crisis%20is%20an,of%20Sweden%20and%20the%20world.) where we created a skeleton MVP as our contribution to the competition which lasted over one weekend.
 
-### AirWork
 
-https://github.com/EmanuelDellsen/airwork
+### [AirWork](https://github.com/EmanuelDellsen/airwork)
+Me and [Karl](https://github.com/Synoecism) has throughout the years discussed different ideas and this is an example of the outcome. 
+The plan is to create a displayable and functioning MVP of an idea which has grown over the years, [this](https://github.com/EmanuelDellsen/airwork) repository is the result.
 
-### Self driving car
 
-https://github.com/EmanuelDellsen/DIT638-Cyber-Physical-Systems-and-Systems-of-Systems
+### [Self driving car](https://github.com/EmanuelDellsen/DIT638-Cyber-Physical-Systems-and-Systems-of-Systems)
+The team and I created a microservice which was reponsible for calculating steering angles based on video feed received from another microservice. 
+The video feed was processed through several parts of the microservice in order to detect objects and based on said objects calculate a steering angle.
+If interested there is a README in the [repository](https://github.com/EmanuelDellsen/DIT638-Cyber-Physical-Systems-and-Systems-of-Systems) that covers everything in detail.
 
-### Distributed system
+### [Distributed system](https://github.com/EmanuelDellsen/DIT355-Distributed-Systems-Development-)
+Created a distributed system using different architectural patterns, technologies and libraries. 
+More information and specifics is to be found at the [here](https://github.com/EmanuelDellsen/DIT355-Distributed-Systems-Development-)  
 
-https://github.com/EmanuelDellsen/DIT355-Distributed-Systems-Development-
 
-### TextMod (collaboration with [Tibco Spotfire](https://www.tibco.com/products/tibco-spotfire)) 
+### [TextMod](https://github.com/hajke-gu/text-mod) 
+Me and my team created a product using native JavaScript in collaboration with [Tibco Spotfire](https://www.tibco.com/products/tibco-spotfire). This was done by programming an "add-on" within their sandbox environment [Tibco Labs](https://www.tibco.com/tibco-labs) where anyone can create their own module where only your imagination is the limit.
 
-https://github.com/hajke-gu/text-mod
 
 ## Education
 
