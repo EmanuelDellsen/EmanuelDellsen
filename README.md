@@ -1,2 +1,2 @@
-# Repository where my website is lives a vivid life
+# Repository where my website lives a vivid life
 Repository where a website regarding my professional endeavours are displayed. 
