@@ -25,7 +25,7 @@ More information and specifics is to be found at the [here](https://github.com/E
 
 
 ### [TextMod](https://github.com/hajke-gu/text-mod) 
-Me and my team created a product using native JavaScript in collaboration with [Tibco Spotfire](https://www.tibco.com/products/tibco-spotfire). This was done by programming an "add-on" within their sandbox environment [Tibco Labs](https://www.tibco.com/tibco-labs) where anyone can create their own module where only your imagination is the limit.
+Me and my team created a product using native JavaScript in collaboration with [Tibco Spotfire](https://www.tibco.com/products/tibco-spotfire). This was done by programming an "add-on" within their sandbox environment [Tibco Labs](https://www.tibco.com/tibco-labs) where anyone can create their own module where only your imagination is the limit. The mod is watchable here: [TextMod](https://community.tibco.com/modules/text-card-mod-tibco-spotfirer)
 
 
 ## Education
